@@ -1,0 +1,38 @@
+{
+  "canvas_width": 1280,
+  "canvas_height": 720,
+  "seat_width": 140,
+  "seat_height": 90,
+  "seats": [
+    {
+      "seat_id": 1,
+      "name": "SEAT-1",
+      "x": 194,
+      "y": 262
+    },
+    {
+      "seat_id": 2,
+      "name": "SEAT-2",
+      "x": 344,
+      "y": 262
+    },
+    {
+      "seat_id": 3,
+      "name": "SEAT-3",
+      "x": 195,
+      "y": 435
+    },
+    {
+      "seat_id": 4,
+      "name": "SEAT-4",
+      "x": 349,
+      "y": 435
+    },
+    {
+      "seat_id": 5,
+      "name": "SEAT-5",
+      "x": 505,
+      "y": 434
+    }
+  ]
+}

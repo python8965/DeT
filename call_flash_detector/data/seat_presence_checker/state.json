@@ -1,0 +1,25 @@
+{
+  "saved_at": 1772023779.523984,
+  "states": {
+    "1": {
+      "present": false,
+      "away_since": 1772023734.6756973
+    },
+    "2": {
+      "present": false,
+      "away_since": 1772023739.3902361
+    },
+    "3": {
+      "present": true,
+      "away_since": null
+    },
+    "4": {
+      "present": true,
+      "away_since": null
+    },
+    "5": {
+      "present": true,
+      "away_since": null
+    }
+  }
+}
